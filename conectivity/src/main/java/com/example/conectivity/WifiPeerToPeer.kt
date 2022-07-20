@@ -1,4 +1,5 @@
 package com.example.conectivity
 
-class WifiPeerToPeer {
-}
+import android.content.Context
+import android.net.wifi.p2p.WifiP2pManager
+
